@@ -3,7 +3,7 @@
 ## Description
 Non-safety and inductive Prompt data, about 500,000 in total, this dataset can be used for tasks such as LLM training, chatgpt
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1349?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/llm/1349?source=Github
 
 # Specifications
 ## Data content
